@@ -67,6 +67,8 @@ pip install opencv-python
 ## 📂 Project Structure  
 
 ```
+video-to-ascii/
+│
 ├── videotoascii.py   # Main script
 ├── README.md                                 # Project documentation
 ```
