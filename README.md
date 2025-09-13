@@ -15,13 +15,9 @@ This project uses **OpenCV** for video processing and **Tkinter** for the GUI in
 ---
 
 ## 🖼️ Demo  
-When you run the app and choose a video, it will display something like this (example representation):  
+Watch a demo on how the Video is converted into ASCII (example representation):  
 
-```
-@@@@%%%###****++++====----
-@@@%%%###****++++====----
-@@%%%%##***++++====----..
-```
+🌐 Youtube: https://youtube.com/shorts/THoSEthWGWU?si=Ffk1YIlVu9QELg9o
 
 ---
 
